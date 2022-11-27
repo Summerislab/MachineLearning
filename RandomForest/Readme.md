@@ -4,8 +4,8 @@
 
 N samples, choose i sample
 
-At the first choice, the probability of i not selected: P_{1} = (N-1)/N; 
-then the consecutive choices, P_{2} = (N-1)/N * (N-1)/N
-······
+At the first choice, the probability of i not selected: P_{1} = (N-1)/N; \n
+then the consecutive choices, P_{2} = (N-1)/N * (N-1)/N\n
+······\n
 P_{N} = ((N-1)/N)**N = e**(-1) = 0.368
 
